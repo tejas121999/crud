@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "tejas telkar",
+      "email": "tejastalkar@nimapinfotech.com",
+      "phone": "7412589630",
+      "id": 1
+    },
+    {
+      "name": "savio",
+      "email": "savio@gmail.com",
+      "phone": "7412589630",
+      "id": 2
+    }
+  ]
+}
